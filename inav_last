@@ -1,0 +1,828 @@
+CONFIGURATOR 2.0.0-rc1
+Disconnect
+No dataflash 
+chip found
+
+Gyro
+Accel
+Mag
+Baro
+GPS
+Flow
+Sonar
+Speed
+ 0.42 V
+Show Log
+2018-06-29 @ 14:04:07 -- Running - OS: MacOS, Chrome: 67.0.3396.87, Configurator: 2.0.0-rc1
+
+2018-06-29 @ 14:04:08 -- Loaded release information from GitHub.
+
+2018-06-29 @ 14:04:37 -- Failed to open serial port
+
+2018-06-29 @ 14:04:38 -- Failed to open serial port
+
+2018-06-29 @ 14:04:39 -- Failed to open serial port
+
+2018-06-29 @ 14:04:51 -- Serial port successfully opened with ID: 1
+
+2018-06-29 @ 14:04:53 -- Serial port successfully closed
+
+2018-06-29 @ 14:04:54 -- Serial port successfully opened with ID: 2
+
+2018-06-29 @ 14:04:57 -- MultiWii API version received - 2.1.0
+
+2018-06-29 @ 14:04:57 -- Flight controller info, identifier: INAV, version:
+
+2018-06-29 @ 14:04:57 -- Running firmware released on: May 16 2018 13:07:03
+
+2018-06-29 @ 14:04:57 -- Board: MKF4, version: 0
+
+2018-06-29 @ 14:04:57 -- Unique device ID received - 0x3f002f3436511537363537
+
+2018-06-29 @ 14:04:57 -- PWM output is disabled. Motors and servos will not work. Use Configuration tab to enable!
+
+2018-06-29 @ 14:05:03 -- CLI mode detected
+
+2018-06-29 @ 14:05:14 -- Serial port successfully closed
+
+2018-06-29 @ 14:05:14 -- Serial port successfully opened with ID: 3
+
+2018-06-29 @ 14:05:21 -- Serial port successfully closed
+
+2018-06-29 @ 14:05:23 -- Serial port successfully opened with ID: 4
+
+2018-06-29 @ 14:05:23 -- MultiWii API version received - 2.1.0
+
+2018-06-29 @ 14:05:23 -- Flight controller info, identifier: INAV, version:
+
+2018-06-29 @ 14:05:23 -- Running firmware released on: May 16 2018 13:07:03
+
+2018-06-29 @ 14:05:23 -- Board: MKF4, version: 0
+
+2018-06-29 @ 14:05:23 -- Unique device ID received - 0x3f002f3436511537363537
+
+2018-06-29 @ 14:05:23 -- PWM output is disabled. Motors and servos will not work. Use Configuration tab to enable!
+
+2018-06-29 @ 14:05:30 -- Settings restored to default
+
+2018-06-29 @ 14:05:30 -- PWM output is disabled. Motors and servos will not work. Use Configuration tab to enable!
+
+2018-06-29 @ 14:05:32 -- Serial port successfully closed
+
+2018-06-29 @ 14:05:33 -- Serial port successfully opened with ID: 5
+
+2018-06-29 @ 14:05:33 -- MultiWii API version received - 2.1.0
+
+2018-06-29 @ 14:05:33 -- Flight controller info, identifier: INAV, version:
+
+2018-06-29 @ 14:05:33 -- Running firmware released on: May 16 2018 13:07:03
+
+2018-06-29 @ 14:05:33 -- Board: MKF4, version: 0
+
+2018-06-29 @ 14:05:33 -- Unique device ID received - 0x3f002f3436511537363537
+
+2018-06-29 @ 14:05:33 -- PWM output is disabled. Motors and servos will not work. Use Configuration tab to enable!
+
+2018-06-29 @ 14:05:35 -- Serial port successfully closed
+
+2018-06-29 @ 14:08:09 -- Serial port successfully opened with ID: 6
+
+2018-06-29 @ 14:08:12 -- Serial port successfully closed
+
+2018-06-29 @ 14:08:16 -- Serial port successfully opened with ID: 7
+
+2018-06-29 @ 14:08:26 -- No configuration received within 10 seconds, communication failed
+
+2018-06-29 @ 14:10:59 -- Serial port successfully closed
+
+2018-06-29 @ 14:11:01 -- Serial port successfully opened with ID: 8
+
+2018-06-29 @ 14:11:04 -- MultiWii API version received - 2.1.0
+
+2018-06-29 @ 14:11:04 -- Flight controller info, identifier: INAV, version:
+
+2018-06-29 @ 14:11:04 -- Running firmware released on: May 16 2018 13:07:03
+
+2018-06-29 @ 14:11:04 -- Board: MKF4, version: 0
+
+2018-06-29 @ 14:11:04 -- Unique device ID received - 0x3f002f3436511537363537
+
+2018-06-29 @ 14:11:04 -- PWM output is disabled. Motors and servos will not work. Use Configuration tab to enable!
+
+2018-06-29 @ 14:11:08 -- Serial port successfully closed
+
+2018-06-29 @ 14:11:30 -- Failed to open serial port
+
+2018-06-29 @ 14:13:22 -- Serial port successfully opened with ID: 9
+
+2018-06-29 @ 14:13:22 -- MultiWii API version received - 2.1.0
+
+2018-06-29 @ 14:13:22 -- Flight controller info, identifier: INAV, version:
+
+2018-06-29 @ 14:13:22 -- Running firmware released on: May 16 2018 13:07:03
+
+2018-06-29 @ 14:13:22 -- Board: MKF4, version: 0
+
+2018-06-29 @ 14:13:22 -- Unique device ID received - 0x3f002f3436511537363537
+
+2018-06-29 @ 14:13:22 -- PWM output is disabled. Motors and servos will not work. Use Configuration tab to enable!
+
+2018-06-29 @ 14:14:07 -- CLI reboot detected
+
+2018-06-29 @ 14:14:07 -- Device - Rebooting
+
+2018-06-29 @ 14:14:08 -- Serial port successfully closed
+
+2018-06-29 @ 14:14:09 -- Serial port successfully opened with ID: 10
+
+2018-06-29 @ 14:14:14 -- Serial port successfully closed
+
+2018-06-29 @ 14:14:15 -- Serial port successfully opened with ID: 11
+
+2018-06-29 @ 14:14:15 -- Serial port successfully closed
+
+2018-06-29 @ 14:14:23 -- Serial port successfully opened with ID: 12
+
+2018-06-29 @ 14:14:23 -- MultiWii API version received - 2.1.0
+
+2018-06-29 @ 14:14:23 -- Flight controller info, identifier: INAV, version:
+
+2018-06-29 @ 14:14:23 -- Running firmware released on: May 16 2018 13:07:03
+
+2018-06-29 @ 14:14:23 -- Board: MKF4, version: 0
+
+2018-06-29 @ 14:14:23 -- Unique device ID received - 0x3f002f3436511537363537
+
+2018-06-29 @ 14:14:26 -- Serial port successfully closed
+
+2018-06-29 @ 14:14:30 -- Failed to open serial port
+
+2018-06-29 @ 14:15:02 -- Serial port successfully opened with ID: 13
+
+2018-06-29 @ 14:15:02 -- MultiWii API version received - 2.1.0
+
+2018-06-29 @ 14:15:02 -- Flight controller info, identifier: INAV, version:
+
+2018-06-29 @ 14:15:02 -- Running firmware released on: May 16 2018 13:07:03
+
+2018-06-29 @ 14:15:02 -- Board: MKF4, version: 0
+
+2018-06-29 @ 14:15:02 -- Unique device ID received - 0x3f002f3436511537363537
+
+2018-06-29 @ 14:15:42 -- EEPROM saved
+
+2018-06-29 @ 14:16:11 -- Serial port successfully closed
+
+2018-06-29 @ 14:18:35 -- Serial port successfully opened with ID: 14
+
+2018-06-29 @ 14:18:39 -- Serial port successfully closed
+
+2018-06-29 @ 14:18:40 -- Serial port successfully opened with ID: 15
+
+2018-06-29 @ 14:18:43 -- MultiWii API version received - 2.1.0
+
+2018-06-29 @ 14:18:43 -- Flight controller info, identifier: INAV, version:
+
+2018-06-29 @ 14:18:43 -- Running firmware released on: May 16 2018 13:07:03
+
+2018-06-29 @ 14:18:43 -- Board: MKF4, version: 0
+
+2018-06-29 @ 14:18:43 -- Unique device ID received - 0x3f002f3436511537363537
+
+2018-06-29 @ 14:19:24 -- Serial port successfully closed
+
+2018-06-29 @ 14:19:26 -- Serial port successfully opened with ID: 16
+
+2018-06-29 @ 14:19:32 -- Serial port successfully closed
+
+2018-06-29 @ 14:19:33 -- Serial port successfully opened with ID: 17
+
+2018-06-29 @ 14:19:33 -- MultiWii API version received - 2.1.0
+
+2018-06-29 @ 14:19:33 -- Flight controller info, identifier: INAV, version:
+
+2018-06-29 @ 14:19:33 -- Running firmware released on: May 16 2018 13:07:03
+
+2018-06-29 @ 14:19:33 -- Board: MKF4, version: 0
+
+2018-06-29 @ 14:19:33 -- Unique device ID received - 0x3f002f3436511537363537
+
+2018-06-29 @ 14:19:55 -- Serial port successfully closed
+
+2018-06-29 @ 14:19:56 -- Serial port successfully opened with ID: 18
+
+2018-06-29 @ 14:19:56 -- MultiWii API version received - 2.1.0
+
+2018-06-29 @ 14:19:56 -- Flight controller info, identifier: INAV, version:
+
+2018-06-29 @ 14:19:56 -- Running firmware released on: May 16 2018 13:07:03
+
+2018-06-29 @ 14:19:56 -- Board: MKF4, version: 0
+
+2018-06-29 @ 14:19:56 -- Unique device ID received - 0x3f002f3436511537363537
+
+2018-06-29 @ 14:19:57 -- Serial port successfully closed
+
+2018-06-29 @ 14:20:06 -- Serial port successfully opened with ID: 19
+
+2018-06-29 @ 14:20:06 -- MultiWii API version received - 2.1.0
+
+2018-06-29 @ 14:20:06 -- Flight controller info, identifier: INAV, version:
+
+2018-06-29 @ 14:20:06 -- Running firmware released on: May 16 2018 13:07:03
+
+2018-06-29 @ 14:20:06 -- Board: MKF4, version: 0
+
+2018-06-29 @ 14:20:06 -- Unique device ID received - 0x3f002f3436511537363537
+
+2018-06-29 @ 14:20:32 -- Serial port successfully closed
+
+2018-06-29 @ 14:20:33 -- Serial port successfully opened with ID: 20
+
+2018-06-29 @ 14:20:33 -- MultiWii API version received - 2.1.0
+
+2018-06-29 @ 14:20:33 -- Flight controller info, identifier: INAV, version:
+
+2018-06-29 @ 14:20:33 -- Running firmware released on: May 16 2018 13:07:03
+
+2018-06-29 @ 14:20:33 -- Board: MKF4, version: 0
+
+2018-06-29 @ 14:20:33 -- Unique device ID received - 0x3f002f3436511537363537
+
+2018-06-29 @ 14:20:34 -- Serial port successfully closed
+
+2018-06-29 @ 14:20:34 -- Failed to open serial port
+
+2018-06-29 @ 14:20:39 -- Serial port successfully opened with ID: 21
+
+2018-06-29 @ 14:20:39 -- MultiWii API version received - 2.1.0
+
+2018-06-29 @ 14:20:39 -- Flight controller info, identifier: INAV, version:
+
+2018-06-29 @ 14:20:39 -- Running firmware released on: May 16 2018 13:07:03
+
+2018-06-29 @ 14:20:39 -- Board: MKF4, version: 0
+
+2018-06-29 @ 14:20:39 -- Unique device ID received - 0x3f002f3436511537363537
+
+2018-06-29 @ 14:20:43 -- Serial port successfully closed
+
+2018-06-29 @ 14:20:43 -- Serial port successfully opened with ID: 22
+
+2018-06-29 @ 14:20:43 -- MultiWii API version received - 2.1.0
+
+2018-06-29 @ 14:20:43 -- Flight controller info, identifier: INAV, version:
+
+2018-06-29 @ 14:20:43 -- Running firmware released on: May 16 2018 13:07:03
+
+2018-06-29 @ 14:20:43 -- Board: MKF4, version: 0
+
+2018-06-29 @ 14:20:43 -- Unique device ID received - 0x3f002f3436511537363537
+
+2018-06-29 @ 14:20:52 -- Serial port successfully closed
+
+2018-06-29 @ 14:20:52 -- Serial port successfully opened with ID: 23
+
+2018-06-29 @ 14:20:52 -- MultiWii API version received - 2.1.0
+
+2018-06-29 @ 14:20:52 -- Flight controller info, identifier: INAV, version:
+
+2018-06-29 @ 14:20:52 -- Running firmware released on: May 16 2018 13:07:03
+
+2018-06-29 @ 14:20:52 -- Board: MKF4, version: 0
+
+2018-06-29 @ 14:20:52 -- Unique device ID received - 0x3f002f3436511537363537
+
+2018-06-29 @ 14:20:54 -- Serial port successfully closed
+
+2018-06-29 @ 14:20:55 -- Serial port successfully opened with ID: 24
+
+2018-06-29 @ 14:20:55 -- MultiWii API version received - 2.1.0
+
+2018-06-29 @ 14:20:55 -- Flight controller info, identifier: INAV, version:
+
+2018-06-29 @ 14:20:55 -- Running firmware released on: May 16 2018 13:07:03
+
+2018-06-29 @ 14:20:55 -- Board: MKF4, version: 0
+
+2018-06-29 @ 14:20:55 -- Unique device ID received - 0x3f002f3436511537363537
+
+2018-06-29 @ 14:21:17 -- Serial port successfully closed
+
+2018-06-29 @ 14:21:17 -- Failed to open serial port
+
+2018-06-29 @ 15:47:06 -- Serial port successfully opened with ID: 25
+
+2018-06-29 @ 15:47:06 -- MultiWii API version received - 2.1.0
+
+2018-06-29 @ 15:47:06 -- Flight controller info, identifier: INAV, version:
+
+2018-06-29 @ 15:47:06 -- Running firmware released on: May 16 2018 13:07:03
+
+2018-06-29 @ 15:47:06 -- Board: MKF4, version: 0
+
+2018-06-29 @ 15:47:06 -- Unique device ID received - 0x3f002f3436511537363537
+
+2018-06-29 @ 15:47:18 -- EEPROM saved
+
+2018-06-29 @ 15:47:18 -- Device - Rebooting
+
+2018-06-29 @ 15:47:19 -- Serial port successfully closed
+
+2018-06-29 @ 15:47:20 -- Serial port successfully opened with ID: 26
+
+2018-06-29 @ 15:47:23 -- MultiWii API version received - 2.1.0
+
+2018-06-29 @ 15:47:23 -- Flight controller info, identifier: INAV, version:
+
+2018-06-29 @ 15:47:23 -- Running firmware released on: May 16 2018 13:07:03
+
+2018-06-29 @ 15:47:23 -- Board: MKF4, version: 0
+
+2018-06-29 @ 15:47:23 -- Unique device ID received - 0x3f002f3436511537363537
+
+2018-06-29 @ 15:47:41 -- EEPROM saved
+
+2018-06-29 @ 15:47:41 -- Device - Rebooting
+
+2018-06-29 @ 15:47:42 -- Serial port successfully closed
+
+2018-06-29 @ 15:47:43 -- Serial port successfully opened with ID: 27
+
+2018-06-29 @ 15:47:45 -- MultiWii API version received - 2.1.0
+
+2018-06-29 @ 15:47:45 -- Flight controller info, identifier: INAV, version:
+
+2018-06-29 @ 15:47:45 -- Running firmware released on: May 16 2018 13:07:03
+
+2018-06-29 @ 15:47:46 -- Board: MKF4, version: 0
+
+2018-06-29 @ 15:47:46 -- Unique device ID received - 0x3f002f3436511537363537
+
+2018-06-29 @ 15:47:51 -- Serial port successfully closed
+
+2018-06-29 @ 15:47:52 -- Serial port successfully opened with ID: 28
+
+2018-06-29 @ 15:47:52 -- MultiWii API version received - 2.1.0
+
+2018-06-29 @ 15:47:52 -- Flight controller info, identifier: INAV, version:
+
+2018-06-29 @ 15:47:52 -- Running firmware released on: May 16 2018 13:07:03
+
+2018-06-29 @ 15:47:52 -- Board: MKF4, version: 0
+
+2018-06-29 @ 15:47:52 -- Unique device ID received - 0x3f002f3436511537363537
+
+2018-06-29 @ 15:48:05 -- Serial port successfully closed
+
+2018-06-29 @ 16:16:48 -- Serial port successfully opened with ID: 29
+
+2018-06-29 @ 16:16:48 -- MultiWii API version received - 2.1.0
+
+2018-06-29 @ 16:16:48 -- Flight controller info, identifier: INAV, version:
+
+2018-06-29 @ 16:16:48 -- Running firmware released on: May 16 2018 13:07:03
+
+2018-06-29 @ 16:16:48 -- Board: MKF4, version: 0
+
+2018-06-29 @ 16:16:48 -- Unique device ID received - 0x3f002f3436511537363537
+
+2018-06-29 @ 16:17:30 -- EEPROM saved
+
+2018-06-29 @ 16:17:36 -- Serial port successfully closed
+
+2018-06-29 @ 16:17:37 -- Serial port successfully opened with ID: 30
+
+2018-06-29 @ 16:17:37 -- MultiWii API version received - 2.1.0
+
+2018-06-29 @ 16:17:37 -- Flight controller info, identifier: INAV, version:
+
+2018-06-29 @ 16:17:37 -- Running firmware released on: May 16 2018 13:07:03
+
+2018-06-29 @ 16:17:37 -- Board: MKF4, version: 0
+
+2018-06-29 @ 16:17:37 -- Unique device ID received - 0x3f002f3436511537363537
+
+2018-06-29 @ 16:17:58 -- EEPROM saved
+
+2018-06-29 @ 16:18:03 -- EEPROM saved
+
+2018-06-29 @ 16:18:04 -- EEPROM saved
+
+2018-06-29 @ 16:18:07 -- Serial port successfully closed
+
+2018-06-29 @ 16:18:07 -- Serial port successfully opened with ID: 31
+
+2018-06-29 @ 16:18:07 -- MultiWii API version received - 2.1.0
+
+2018-06-29 @ 16:18:07 -- Flight controller info, identifier: INAV, version:
+
+2018-06-29 @ 16:18:07 -- Serial port successfully closed
+
+2018-06-29 @ 16:22:47 -- Serial port successfully opened with ID: 32
+
+2018-06-29 @ 16:22:47 -- MultiWii API version received - 2.1.0
+
+2018-06-29 @ 16:22:47 -- Flight controller info, identifier: INAV, version:
+
+2018-06-29 @ 16:22:47 -- Running firmware released on: May 16 2018 13:07:03
+
+2018-06-29 @ 16:22:47 -- Board: MKF4, version: 0
+
+2018-06-29 @ 16:22:47 -- Unique device ID received - 0x3f002f3436511537363537
+
+2018-06-29 @ 16:22:55 -- Serial port successfully closed
+
+2018-06-29 @ 16:22:56 -- Serial port successfully opened with ID: 33
+
+2018-06-29 @ 16:22:56 -- MultiWii API version received - 2.1.0
+
+2018-06-29 @ 16:22:56 -- Flight controller info, identifier: INAV, version:
+
+2018-06-29 @ 16:22:56 -- Running firmware released on: May 16 2018 13:07:03
+
+2018-06-29 @ 16:22:56 -- Board: MKF4, version: 0
+
+2018-06-29 @ 16:22:56 -- Unique device ID received - 0x3f002f3436511537363537
+
+2018-06-29 @ 16:23:08 -- EEPROM saved
+
+2018-06-29 @ 16:23:19 -- EEPROM saved
+
+2018-06-29 @ 16:23:20 -- EEPROM saved
+
+2018-06-29 @ 16:24:03 -- EEPROM saved
+
+2018-06-29 @ 16:24:04 -- Device - Rebooting
+
+2018-06-29 @ 16:24:05 -- Serial port successfully closed
+
+2018-06-29 @ 16:24:06 -- Serial port successfully opened with ID: 34
+
+2018-06-29 @ 16:24:08 -- Serial port successfully closed
+
+2018-06-29 @ 16:25:23 -- Serial port successfully opened with ID: 35
+
+2018-06-29 @ 16:25:24 -- MultiWii API version received - 2.1.0
+
+2018-06-29 @ 16:25:26 -- Flight controller info, identifier: INAV, version:
+
+2018-06-29 @ 16:25:27 -- Serial port successfully closed
+
+2018-06-29 @ 16:25:29 -- Serial port successfully opened with ID: 36
+
+2018-06-29 @ 16:25:30 -- MultiWii API version received - 2.1.0
+
+2018-06-29 @ 16:25:32 -- Flight controller info, identifier: INAV, version: 1.9.1
+
+2018-06-29 @ 16:25:35 -- Running firmware released on: May 16 2018 13:07:03
+
+2018-06-29 @ 16:25:36 -- Board: MKF4, version: 0
+
+2018-06-29 @ 16:25:37 -- Serial port successfully closed
+
+2018-06-29 @ 16:25:37 -- Serial port successfully opened with ID: 37
+
+2018-06-29 @ 16:25:39 -- MultiWii API version received - 2.1.0
+
+2018-06-29 @ 16:25:41 -- Flight controller info, identifier: INAV, version:
+
+2018-06-29 @ 16:25:44 -- Running firmware released on: May 16 2018 13:07:03
+
+2018-06-29 @ 16:25:44 -- Serial port successfully closed
+
+2018-06-29 @ 16:25:48 -- Serial port successfully opened with ID: 38
+
+2018-06-29 @ 16:25:50 -- Serial port successfully closed
+
+2018-06-29 @ 16:25:54 -- Serial port successfully opened with ID: 39
+
+2018-06-29 @ 16:25:54 -- MultiWii API version received - 2.1.0
+
+2018-06-29 @ 16:25:55 -- Flight controller info, identifier: INAV, version:
+
+2018-06-29 @ 16:25:58 -- Serial port successfully closed
+
+2018-06-29 @ 16:26:07 -- Serial port successfully opened with ID: 40
+
+2018-06-29 @ 16:26:07 -- MultiWii API version received - 2.1.0
+
+2018-06-29 @ 16:26:07 -- Flight controller info, identifier: INAV, version:
+
+2018-06-29 @ 16:26:07 -- Running firmware released on: May 16 2018 13:07:03
+
+2018-06-29 @ 16:26:07 -- Board: MKF4, version: 0
+
+2018-06-29 @ 16:26:07 -- Unique device ID received - 0x3f002f3436511537363537
+
+2018-06-29 @ 16:26:19 -- EEPROM saved
+
+2018-06-29 @ 16:26:46 -- Serial port successfully closed
+
+2018-06-29 @ 16:26:56 -- Serial port successfully opened with ID: 41
+
+2018-06-29 @ 16:26:56 -- MultiWii API version received - 2.1.0
+
+2018-06-29 @ 16:26:56 -- Flight controller info, identifier: INAV, version:
+
+2018-06-29 @ 16:26:56 -- Running firmware released on: May 16 2018 13:07:03
+
+2018-06-29 @ 16:26:56 -- Board: MKF4, version: 0
+
+2018-06-29 @ 16:26:56 -- Unique device ID received - 0x3f002f3436511537363537
+
+2018-06-29 @ 16:27:14 -- Serial port successfully closed
+
+2018-06-29 @ 16:27:15 -- Serial port successfully opened with ID: 42
+
+2018-06-29 @ 16:27:15 -- MultiWii API version received - 2.1.0
+
+2018-06-29 @ 16:27:15 -- Flight controller info, identifier: INAV, version:
+
+2018-06-29 @ 16:27:16 -- Running firmware released on: May 16 2018 13:07:03
+
+2018-06-29 @ 16:27:16 -- Board: MKF4, version: 0
+
+2018-06-29 @ 16:27:16 -- Unique device ID received - 0x3f002f3436511537363537
+
+2018-06-29 @ 16:27:17 -- Serial port successfully closed
+
+2018-06-29 @ 16:27:25 -- Serial port successfully opened with ID: 43
+
+2018-06-29 @ 16:27:25 -- MultiWii API version received - 2.1.0
+
+2018-06-29 @ 16:27:25 -- Flight controller info, identifier: INAV, version:
+
+2018-06-29 @ 16:27:25 -- Running firmware released on: May 16 2018 13:07:03
+
+2018-06-29 @ 16:27:25 -- Board: MKF4, version: 0
+
+2018-06-29 @ 16:27:25 -- Unique device ID received - 0x3f002f3436511537363537
+
+2018-06-29 @ 16:27:28 -- Serial port successfully closed
+
+2018-06-29 @ 16:27:30 -- Serial port successfully opened with ID: 44
+
+2018-06-29 @ 16:27:30 -- MultiWii API version received - 2.1.0
+
+2018-06-29 @ 16:27:30 -- Flight controller info, identifier: INAV, version:
+
+2018-06-29 @ 16:27:30 -- Running firmware released on: May 16 2018 13:07:03
+
+2018-06-29 @ 16:27:30 -- Board: MKF4, version: 0
+
+2018-06-29 @ 16:27:30 -- Unique device ID received - 0x3f002f3436511537363537
+
+2018-06-29 @ 16:27:31 -- Serial port successfully closed
+
+2018-06-29 @ 16:27:34 -- Failed to open serial port
+
+2018-06-29 @ 16:27:38 -- Serial port successfully opened with ID: 45
+
+2018-06-29 @ 16:27:41 -- Serial port successfully closed
+
+2018-06-29 @ 16:27:55 -- Failed to open serial port
+
+2018-06-29 @ 16:27:58 -- Serial port successfully opened with ID: 46
+
+2018-06-29 @ 16:27:59 -- Serial port successfully closed
+
+2018-06-29 @ 16:28:01 -- Serial port successfully opened with ID: 47
+
+2018-06-29 @ 16:28:03 -- Serial port successfully closed
+
+2018-06-29 @ 16:28:11 -- Serial port successfully opened with ID: 48
+
+2018-06-29 @ 16:28:13 -- Serial port successfully closed
+
+2018-06-29 @ 16:28:16 -- Serial port successfully opened with ID: 49
+
+2018-06-29 @ 16:28:18 -- Serial port successfully closed
+
+2018-06-29 @ 16:28:22 -- Serial port successfully opened with ID: 50
+
+2018-06-29 @ 16:28:27 -- Serial port successfully closed
+
+2018-06-29 @ 16:28:28 -- Serial port successfully opened with ID: 51
+
+2018-06-29 @ 16:28:29 -- MultiWii API version received - 2.1.0
+
+2018-06-29 @ 16:28:29 -- Flight controller info, identifier: INAV, version:
+
+2018-06-29 @ 16:28:29 -- Running firmware released on: May 16 2018 13:07:03
+
+2018-06-29 @ 16:28:29 -- Board: MKF4, version: 0
+
+2018-06-29 @ 16:28:29 -- Unique device ID received - 0x3f002f3436511537363537
+
+2018-06-29 @ 16:28:43 -- EEPROM saved
+
+2018-06-29 @ 16:28:44 -- Device - Rebooting
+
+2018-06-29 @ 16:28:45 -- Serial port successfully closed
+
+2018-06-29 @ 16:28:49 -- Serial port successfully opened with ID: 52
+
+2018-06-29 @ 16:28:54 -- MultiWii API version received - 2.1.0
+
+2018-06-29 @ 16:28:54 -- Flight controller info, identifier: INAV, version:
+
+2018-06-29 @ 16:28:54 -- Running firmware released on: May 16 2018 13:07:03
+
+2018-06-29 @ 16:28:54 -- Board: MKF4, version: 0
+
+2018-06-29 @ 16:28:54 -- Unique device ID received - 0x3f002f3436511537363537
+
+2018-06-29 @ 16:29:00 -- CLI mode detected
+
+Setup
+Calibration
+Mixer
+Presets
+Ports
+Configuration
+Failsafe
+PID tuning
+Advanced tuning
+Receiver
+Modes
+Adjustments
+Servos
+GPS
+Mission Control
+Motors
+OSD
+LED Strip
+Sensors
+Tethered Logging
+Blackbox
+CLI
+Note: Leaving CLI tab or pressing Disconnect will automatically send "exit" to the board. With the latest firmware this will make the controller restart and unsaved changes will be lost.
+
+
+Entering CLI Mode, type 'exit' to return, or 'help'
+
+# diff
+
+# version
+# INAV/MATEKF405 1.9.1 May 16 2018 / 13:07:03 ()
+
+# resources
+
+# mixer
+
+# servo mix
+
+# servo
+
+# feature
+feature GPS
+feature BLACKBOX
+feature AIRMODE
+feature PWM_OUTPUT_ENABLE
+
+# beeper
+beeper -RUNTIME_CALIBRATION
+beeper -HW_FAILURE
+beeper -RX_LOST
+beeper -RX_LOST_LANDING
+beeper -DISARMING
+beeper -ARMING
+beeper -ARMING_GPS_FIX
+beeper -BAT_CRIT_LOW
+beeper -BAT_LOW
+beeper -GPS_STATUS
+beeper -RX_SET
+beeper -ACTION_SUCCESS
+beeper -ACTION_FAIL
+beeper -READY_BEEP
+beeper -MULTI_BEEPS
+beeper -DISARM_REPEAT
+beeper -ARMED
+beeper -SYSTEM_INIT
+beeper -ON_USB
+beeper -LAUNCH_MODE
+beeper -CAM_CONNECTION_OPEN
+beeper -CAM_CONNECTION_CLOSED
+
+# map
+
+# name
+name CONTROLFLOW
+
+# serial
+serial 0 64 115200 38400 0 115200
+serial 1 0 115200 38400 0 115200
+serial 2 2048 115200 38400 0 115200
+serial 3 2 115200 38400 0 115200
+
+# led
+
+# color
+
+# mode_color
+
+# aux
+aux 0 0 1 1800 2100
+aux 1 1 0 1300 2100
+aux 2 3 0 1700 2100
+aux 3 9 0 1700 2100
+aux 4 8 2 1700 2100
+aux 5 11 1 1300 1700
+aux 6 17 2 1300 1700
+
+# adjrange
+
+# rxrange
+rxrange 0 987 2011
+rxrange 1 987 2011
+rxrange 2 987 2011
+rxrange 3 987 2010
+
+# master
+set gyro_sync = ON
+set gyro_hardware_lpf = 188HZ
+set acc_hardware = MPU6000
+set acczero_x = 147
+set acczero_y = -58
+set acczero_z = -273
+set accgain_x = 4075
+set accgain_y = 4075
+set accgain_z = 4066
+set align_mag = CW90FLIP
+set mag_hardware = HMC5883
+set magzero_x = -170
+set magzero_y = -551
+set magzero_z = 604
+set baro_hardware = BMP280
+set pitot_hardware = NONE
+set min_check = 1020
+set max_check = 1990
+set rssi_channel = 8
+set serialrx_provider = CRSF
+set min_throttle = 1060
+set max_throttle = 1980
+set motor_pwm_rate = 8000
+set motor_pwm_protocol = MULTISHOT
+set failsafe_delay = 30
+set failsafe_procedure = RTH
+set vbat_scale = 1120
+set battery_capacity = 4200
+set battery_capacity_warning = 1260
+set battery_capacity_critical = 630
+set yaw_motor_direction = -1
+set small_angle = 180
+set gps_sbas_mode = AUTO
+set yaw_deadband = 10
+set nav_auto_speed = 2000
+set nav_rth_allow_landing = FS_ONLY
+set nav_rth_altitude = 2000
+set nav_mc_bank_angle = 35
+set osd_main_voltage_pos = 2456
+set osd_rssi_pos = 2106
+set osd_flytimer_pos = 2433
+set osd_flymode_pos = 2441
+set osd_throttle_pos = 248
+set osd_vtx_channel_pos = 41
+set osd_current_draw_pos = 2417
+set osd_mah_drawn_pos = 2449
+set osd_gps_speed_pos = 2201
+set osd_gps_sats_pos = 2137
+set osd_gps_lon_pos = 2081
+set osd_gps_lat_pos = 2113
+set osd_home_dir_pos = 2150
+set osd_home_dist_pos = 2145
+set osd_altitude_pos = 2177
+set osd_vario_num_pos = 2265
+set osd_ontime_flytime_pos = 385
+set osd_messages_pos = 2306
+set osd_main_cell_voltage_pos = 2425
+set osd_throttle_auto_thr_pos = 2168
+set osd_heading_graph_pos = 2378
+set attitude_task_frequency = 100
+set async_mode = ALL
+
+# profile
+profile 1
+
+set mc_p_pitch = 47
+set mc_i_pitch = 85
+set mc_d_pitch = 45
+set mc_p_roll = 52
+set mc_i_roll = 75
+set mc_d_roll = 42
+set mc_p_yaw = 61
+set mc_p_level = 40
+set dterm_lpf_hz = 60
+set nav_mc_pos_xy_p = 70
+set nav_mc_heading_p = 70
+set rc_expo = 88
+set rc_yaw_expo = 50
+set roll_rate = 85
+set pitch_rate = 85
+set yaw_rate = 60
+
+# 
+
+Write your command here
+Packet error: 0 I2C error: 205 Cycle Time: 1004 CPU Load: 3% MSP version: 2 MSP load: 0.0 MSP round trip: 27 HW round trip: 8 Drop ratio: 0% 2.0.0-rc1
